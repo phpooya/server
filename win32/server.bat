@@ -1,0 +1,1 @@
+php -S localhost:9090 -t "%~dp0..\.." "%~dp0..\core\Server.php"
